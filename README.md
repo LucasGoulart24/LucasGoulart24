@@ -10,4 +10,5 @@ Meu nome é Lucas Biasoli Goulart, tenho 20 anos, sou estudante do curso técnic
     <img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
     <img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
     <img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+    <img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>    
 </div>
