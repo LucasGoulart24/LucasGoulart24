@@ -4,4 +4,13 @@ Meu nome é Lucas Biasoli Goulart, tenho 21 anos e moro na cidade de Santos, Sã
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasgoulart24&theme=algolia&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgoulart24&layout=compact&theme=algolia)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,sass,tailwind)](https://skillicons.dev)
+<div>
+  <img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+  <img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+</div>
