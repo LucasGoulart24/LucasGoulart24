@@ -6,4 +6,4 @@ Olá, meu nome é Lucas Biasoli Goulart, tenho 21 anos, moro na cidade de Santos
 Gostária de comparilhar que eu tenho **Síndrome de Asperger** uma condição do aspectro de Autismo 🧩.
 
 ## 🤖 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,react,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,tailwindcss,react)](https://skillicons.dev)
